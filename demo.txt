@@ -1,1 +1,2 @@
+Hello! This is branch creation in command line.
 the quick brown fox jumps over lazy dog.
